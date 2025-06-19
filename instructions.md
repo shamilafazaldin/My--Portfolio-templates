@@ -3,6 +3,14 @@ Tips for syntax (signs, paths, image vs video etc)
 # 🛠️ Markdown Syntax Tips for Your Portfolio
 
 Use these formatting rules when writing your docs:
+| Content Type        | Syntax Example                                   | Description                      |      |        |     |     |               |                       |
+| ------------------- | ------------------------------------------------ | -------------------------------- | ---- | ------ | --- | --- | ------------- | --------------------- |
+| 📸 Screenshot       | `![Alt Text](folder/image.png)`                  | Shows image inline               |      |        |     |     |               |                       |
+| 📹 Loom Video Link  | `- [Video Title](https://loom.com/share/abc123)` | Opens Loom video in new tab      |      |        |     |     |               |                       |
+| 🧷 Internal MD Link | `[Link Text](../folder/filename.md)`             | Links to another .md in repo     |      |        |     |     |               |                       |
+| 📝 Checklist        | `- [ ] Item` and `- [x] Item`                    | Unchecked / Checked boxes        |      |        |     |     |               |                       |
+| 🗂️ Table           | Use \`                                           | Col1                             | Col2 | `plus` | --- | --- | \` rows below | Markdown table format |
+| 🔠 Headers          | `# H1` to `###### H6`                            | Section titles (use emojis too!) |      |        |     |     |               |                       |
 
 ---
 
