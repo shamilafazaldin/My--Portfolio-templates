@@ -1,4 +1,5 @@
 Tips for syntax (signs, paths, image vs video etc)
+
 # 🛠️ Markdown Syntax Tips for Your Portfolio
 
 Use these formatting rules when writing your docs:
@@ -43,4 +44,11 @@ Use pipes (|) to format tables:
 That’s it! Keep this file handy in all your repos so you never forget the right signs.
 
 ---
+
+template-repo/
+│
+├── readme-template.md
+├── docs-template.md
+├── instructions.md
+└── assets/ (optional images or placeholder examples)
 
